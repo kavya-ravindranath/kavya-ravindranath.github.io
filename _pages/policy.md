@@ -1,6 +1,6 @@
 ---
 title: "Policy"
-permalink: /research/
+permalink: /policy/
 ---
 
 ## Policy Reports
