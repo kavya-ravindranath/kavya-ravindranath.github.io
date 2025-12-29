@@ -1,9 +1,9 @@
 ---
 layout: single
-title: ""
 permalink: /
-author: author1
 author_profile: true
+author: default
+classes: wide
 ---
 
 Hi! I’m a fifth year Economics PhD candidate at **George Washington University**. My primary research interests lie in **Public Finance, Urban, Political Economy, and Development**. 
