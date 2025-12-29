@@ -81,7 +81,7 @@ social:
 author:
   name             : "Kavya Ravindranath"
   avatar           : "/images/headshot_1.png"
-  bio              : "Hi! I am a fifth year Econ PhD student at the George Washington University.  My primary interests lie in Public Finance, Urban, Political Economy and Development."
+  #bio              : "Hi! I am a fifth year Econ PhD student at the George Washington University.  My primary interests lie in Public Finance, Urban, Political Economy and Development."
   location         : "Washington DC"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
