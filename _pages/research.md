@@ -18,7 +18,7 @@ permalink: /research/
 
 ---
 
-- **Political Economy of State Borrowing and Financial Crowding Out **
+- **Political Economy of State Borrowing and Financial Crowding Out**
 (with [Viral Acharya](https://pages.stern.nyu.edu/~sternfin/vacharya/public_html/~vacharya.htm), [Nirupama Kulkarni](https://www.nirupamakulkarni.com), and Rahul Singh Chauhan)
 *Presented at the 5th World Bank/IFS/ODI Tax Conference*
 -[Old version of slides](https://www.dropbox.com/scl/fi/0jxqcdtdh1y13rys7mooa/Kavya-Ravindranath_Crowding_Out_II-31.pdf?rlkey=oumqvurqqdfy81kcpadjv1ai9&e=1&dl=0) 
