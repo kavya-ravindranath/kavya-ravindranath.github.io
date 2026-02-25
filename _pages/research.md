@@ -7,9 +7,17 @@ permalink: /research/
 - **Raising Revenues: A study of property tax compliance in an Indian Municipality**
 *Presented at GW Applied Micro BB, Spring 2025*  
 
-## Works in progress
-- **Demand Elasticity and Solar Panels: A study of California with [Rui Zhong](https://sites.google.com/view/rui-zhong)**
+## Work in Progress
+- **Bridging the Solar Divide: Demand Responses to Subsidies among Low-Income Households** with [Rui Zhong](https://sites.google.com/view/rui-zhong)
 *Presented at GW Applied Micro BB, Spring 2023*
+
+---
+
+- **bf Digital land and property improvement tax payment mechanism in Malawi** with [Klaus W. Deininger](https://scholar.google.com/citations?user=EthslK4AAAAJ&hl=en) and [Daniel Ayalew Ali](https://scholar.google.com/citations?user=NT2maDQAAAAJ&hl=en) \\
+
+---
+
+- **\bf Pass-Through of Consumption Taxes under Political Pressure**  with [Sai Pitre](https://sai-pitre.github.io)\\
 
 ---
 

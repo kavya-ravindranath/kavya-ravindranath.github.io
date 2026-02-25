@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <iframe
-  src="/assets/pdfs/kr_resume_update.pdf"
+  src="/assets/pdfs/KavyaRavindranath_CVFeb2026.pdf"
   width="100%"
   height="1400"
   style="border: 1px solid #ddd; border-radius: 8px;"
