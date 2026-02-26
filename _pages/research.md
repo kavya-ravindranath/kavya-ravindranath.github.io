@@ -13,11 +13,7 @@ permalink: /research/
 
 ---
 
-- **bf Digital land and property improvement tax payment mechanism in Malawi** with [Klaus W. Deininger](https://scholar.google.com/citations?user=EthslK4AAAAJ&hl=en) and [Daniel Ayalew Ali](https://scholar.google.com/citations?user=NT2maDQAAAAJ&hl=en) \\
-
----
-
-- **\bf Pass-Through of Consumption Taxes under Political Pressure**  with [Sai Pitre](https://sai-pitre.github.io)\\
+- **Pass-Through of Consumption Taxes under Political Pressure**  with [Sai Pitre](https://sai-pitre.github.io)
 
 ---
 
