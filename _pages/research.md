@@ -5,11 +5,11 @@ permalink: /research/
 
 ## Job Market Paper
 - **Raising Revenues: A study of property tax compliance in an Indian Municipality**
-*Presented at GW Applied Micro BB, Spring 2025*  
+
 
 ## Work in Progress
 - **Bridging the Solar Divide: Demand Responses to Subsidies among Low-Income Households** with [Rui Zhong](https://sites.google.com/view/rui-zhong)
-*Presented at GW Applied Micro BB, Spring 2023*
+
 
 ---
 
@@ -18,7 +18,7 @@ permalink: /research/
 ---
 
 - **How much influence does a bureaucrat have? A study of caste and crime in India**
-*Presented at GW Applied Micro BB, Spring 2024*
+
 
 ---
 
