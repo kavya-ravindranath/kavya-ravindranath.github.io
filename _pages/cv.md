@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <iframe
-  src="Users/kavyaravindranath/Dropbox/application materials/academic_cv.pdf"
+  src='/assets/pdfs/KavyaRavindranath_CV.pdf' 
   width="100%"
   height="1400"
   style="border: 1px solid #ddd; border-radius: 8px;"
