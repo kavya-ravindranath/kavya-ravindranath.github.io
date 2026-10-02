@@ -4,8 +4,9 @@ permalink: /research/
 ---
 
 ## Job Market Paper
-- **Raising Revenues: A Study of Property Tax Compliance in an Indian Municipality** \
-*NTA 2026: Scheduled*
+
+- **Raising Revenues: Evidence from Property Tax Assessments in India** \
+*Scheduled: NTA 2026, ASSA 2027 poster*
 
 ## Working Papers
 - **Bridging the Solar Divide: Demand Responses to Subsidies among Low-Income Households** with [Rui Zhong](https://sites.google.com/view/rui-zhong) \
@@ -25,7 +26,7 @@ permalink: /research/
 
 ## Work in Progress
 
-**Pass-Through of Consumption Taxes under Political Pressure**  with [Sai Pitre](https://sai-pitre.github.io)
+- **Pass-Through of Consumption Taxes under Political Pressure**  with [Sai Pitre](https://sai-pitre.github.io)
 
 - **Digital Land and Property Improvement Tax Payment Mechanism in Malawi** (with [Klaus W. Deininger](https://scholar.google.com/citations?user=EthslK4AAAAJ&hl=en) and [Daniel Ayalew Ali](https://scholar.google.com/citations?user=NT2maDQAAAAJ&hl=en)) \
 *Trial pre-registered at https://www.socialscienceregistry.org/trials/19261*
