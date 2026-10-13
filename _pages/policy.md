@@ -3,7 +3,7 @@ title: "Policy"
 permalink: /policy/
 ---
 
-## Policy Reports
+## Published Reports
 
 **Property tax in Kampala: Revenue collection, progressive rate bands, and valuation appeals**  
 (with Nathaniel Badalov, Julius Mutebi, [Tanner Regan](https://sites.google.com/site/tannerregan), Ezra Ssebuwufu)  
