@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-- **Raising Revenues: Evidence from Property Tax Assessments in India** \
+- **[Raising Revenues: Evidence from Property Tax Assessments in India](/assets/pdfs/KavyaRavindranath_JMP.pdf)** \
 *Scheduled: NTA 2026, ASSA 2027 poster*
 
 ## Working Papers
