@@ -8,6 +8,46 @@
   border-radius: 50%;
 }
 
+.home-contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7em 1.3em;
+  margin: 1em 0 1.5em;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-size: 0.95em;
+    white-space: nowrap;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 4px;
+    }
+  }
+
+  i {
+    font-size: 1.15em;
+  }
+
+  .fa-linkedin {
+    color: #0a66c2;
+  }
+
+  .fa-twitter {
+    color: #1da1f2;
+  }
+}
+
 @include breakpoint($large) {
   .author__avatar {
     width: auto;
