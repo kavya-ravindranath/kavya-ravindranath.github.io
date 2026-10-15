@@ -1,0 +1,20 @@
+{% assign paper = include.paper %}
+<article class="research-paper" aria-labelledby="{{ paper.id }}-title">
+  <h3 id="{{ paper.id }}-title">{{ paper.title | escape }}</h3>
+  {% if paper.coauthors %}<p class="research-paper__coauthors">{{ paper.coauthors }}</p>{% endif %}
+  {% if paper.presentation %}<p class="research-paper__presentation"><em>{{ paper.presentation | escape }}</em></p>{% endif %}
+  {% if paper.draft_url %}<p class="research-paper__links"><a href="{{ paper.draft_url | relative_url }}">Click here for latest draft</a></p>{% endif %}
+  {% if paper.slides_url %}<p class="research-paper__links"><a href="{{ paper.slides_url | escape }}">Old version of slides</a></p>{% endif %}
+  <details class="research-paper__details">
+    <summary aria-label="Abstract for {{ paper.title | escape }}">Abstract</summary>
+    <div class="research-paper__content">
+      <div class="research-paper__abstract"><p>{{ paper.abstract | escape }}</p></div>
+      <figure class="research-paper__figure">
+        <a href="{{ paper.image | relative_url }}" target="_blank" rel="noopener" aria-label="Open full-size figure for {{ paper.title | escape }}">
+          <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" loading="lazy" decoding="async">
+        </a>
+        <figcaption>{{ paper.image_caption | escape }}</figcaption>
+      </figure>
+    </div>
+  </details>
+</article>

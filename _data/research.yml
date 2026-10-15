@@ -1,0 +1,42 @@
+- id: jmp
+  group: jmp
+  title: "Raising Revenues: Evidence from Property Tax Assessments in India"
+  presentation: "Scheduled: NTA 2026, ASSA 2027 poster"
+  draft_url: /assets/pdfs/KavyaRavindranath_JMP.pdf
+  abstract: >-
+    How do property-owners respond to increases in property-tax liabilities? Particularly, do these responses differ across the initial-liability distribution, and how does accounting for this heterogeneity affect the revenue-maximizing tax rate? I construct a novel dataset of geolocated properties and digitised parcel-level maps from an Indian municipality to answer this question. I exploit variation in liabilities that arise from area-based guidance values that are fixed as of 2011, known as ‘circle rates’. First, I find that a 1% increase in the circle rate reduces compliance by 0.49% but increases total revenues by 0.83%. This implies that revenues are maximized by scaling every circle rate by a common factor of 3.8. This preserves the existing relative circle rate schedule while increasing liabilities proportionally across properties, and is equivalent to increasing the statutory tax rate from 0.25% to 0.95%. Second, I show that this estimate masks substantial heterogeneity in behavioural responses. Properties at higher circle rates are more elastic than those at lower circle rates. Accounting for this, reduces the revenue-maximizing common scaling factor to 2.25, equivalent to a statutory tax rate of 0.56%. Third, I find that updating liabilities to reflect the revenue maximising schedule leads to the largest gains in revenues but that simply updating outdated circle rates to more recent values recovers a substantial share of these gains.
+  image: /assets/images/research/jmp.png
+  image_caption: "Figure 3, Panels A and B: Average treatment effects on compliance and amount paid."
+  image_alt: "Two bar charts comparing properties with low and high circle rates: average estimated compliance is 0.749 versus 0.649, and average amount paid is 40.755 versus 50.796."
+
+- id: solar
+  group: working
+  title: "Bridging the Solar Divide: Demand Responses to Subsidies among Low-Income Households"
+  coauthors: 'with <a href="https://sites.google.com/view/rui-zhong">Rui Zhong</a>'
+  presentation: "APPAM 2026: Scheduled"
+  abstract: >-
+    Governments increasingly rely on subsidies to encourage household adoption of clean energy technology, yet credible estimates of demand elasticities, especially for low-income households, remain limited. In this paper, we study the price effects and demand responses to solar subsidies in California, using a Regression Discontinuity Design. We study a program that specifically offered subsidies to low-income households in disadvantaged census tracts. Census Tracts are designated as being disadvantaged if they lie above the 75th percentile of a socio-economic and environmental score. Then, close to the cut-off, a census tract being designated as disadvantaged is as good as being random. First, we use the full sample of census block groups and document a 347% increase in total rebates and a 29.6% increase in the number of solar installations. Next, we focus on the sample of block groups that all have positive rebate take-up and find a 314% increase in total rebate take-up, a 22.1% increase in the number of installations, and a 12.7% reduction in the out of pocket price paid by households. We confirm that these estimates are robust to different bandwidths and weighting methods. We then use these estimates to measure elasticities and find a price elasticity of -1.73, which lies in between previous estimates in the literature. We also find that the elasticity of installations using rebates is much lower and lies between 0.070 and 0.085, implying that the increase in installations did not increase in line with the large increase in subsidies.
+  image: /assets/images/research/chapter2.png
+  image_caption: "Figure 5, Panels A and B: Total rebates and number of installations, full sample."
+  image_alt: "Two regression discontinuity plots showing total solar rebates and the number of solar installations against CalEnviroScreen percentile, with an upward jump at the 75th-percentile eligibility cutoff."
+
+- id: influence
+  group: working
+  title: "How much influence does a bureaucrat have? A study of caste and crime in India"
+  abstract: >-
+    Does being represented by a bureaucrat from a minority group change the outcomes of those belonging to the minority group? In this paper, I use novel police bureaucratic data and district-level crime data to examine the impact of a Lower Caste officer replacing an Upper Caste officer on reported crime. I focus my analysis on the most policed state in India - Uttar Pradesh - and examine outcomes from 2001–2021. I make use of two features of the Indian bureaucracy: (i) officers getting transferred across districts every 1-2 years and (ii) affirmative action policies that require 22% of new bureaucrats to be from a Lower caste. First, I find a 26% increase in the reported crimes against the Lower caste one year after a minority officer enters the district. Second, I use reported murders as a proxy for the actual victimization rate and find a more than 100% increase in the reported murders of the Lower Caste. Next, I focus on total crimes not restricted to minorities and find a subsequent reduction in the number of crimes reported. However, I find no changes in their reported murder rate. Taken together, these results likely point to a reduction by non-minority groups in the perceived effectiveness of the police when the officer belongs to a minority group– offenders react to this by committing more crimes against the Lower Caste and non-minority group victims react to this by reporting fewer crimes. However, it is hard to distinguish this mechanism from an actual worsening of policing.
+  image: /assets/images/research/influence.png
+  image_caption: "Figure 1, Panel A: Total crimes over time."
+  image_alt: "Line chart of crimes reported against the Lower Caste and total reported crimes between 2001 and 2021, with separate vertical scales and a legend identifying both series."
+
+- id: borrowing
+  group: working
+  title: "Political Economy of State Borrowing and Financial Crowding Out"
+  coauthors: 'with <a href="https://pages.stern.nyu.edu/~sternfin/vacharya/public_html/~vacharya.htm">Viral Acharya</a>, <a href="https://www.nirupamakulkarni.com">Nirupama Kulkarni</a>, and Rahul Singh Chauhan'
+  presentation: "Presented at the 5th World Bank/IFS/ODI Tax Conference"
+  slides_url: "https://www.dropbox.com/scl/fi/0jxqcdtdh1y13rys7mooa/Kavya-Ravindranath_Crowding_Out_II-31.pdf?rlkey=oumqvurqqdfy81kcpadjv1ai9&e=1&dl=0"
+  abstract: >-
+    Using regulatory primary auction data of state government securities, we find states with the same ruling party as the central government increase issuance by 28% at 43 bps lower yields in the year before elections. Top-rated non-financial firms and non-banking financial firms see 16 and 26% lower debt, respectively, while facing a 4-6 bps higher average borrowing costs and 14-21 bps higher borrowing costs in the inter-corporate debt market. The crowding out mechanism operates through government-owned banks, who bid 23% higher amounts and at a 70 bps discount relative to other bidders. Consequently, firms with a 10% higher share of PSB borrowing see a 9.3% reduction in debt. Non-financial firms see a decline in sales, wages and cash holdings. While non-banking financial firms cut capital expenditure. Finally, we establish the underlying political economy channel wherein aligned states increase consumption expenditure, which increases the probability of the ruling party getting re-elected.
+  image: /assets/images/research/borrowing.png
+  image_caption: "Figure 3, Panel A: Political cycles in state borrowing, aligned states."
+  image_alt: "Coefficient plot of log state government securities issued in aligned states by years from an election, showing higher issuance one year before the election."
