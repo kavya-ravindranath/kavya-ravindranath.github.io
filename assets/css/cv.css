@@ -1,0 +1,77 @@
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-actions .btn {
+  margin-bottom: 0;
+}
+
+.cv-content {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  line-height: 1.65;
+}
+
+.cv-content .cv-name {
+  margin: 0 0 0.5rem;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.cv-content .cv-contact,
+.cv-content .cv-references {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cv-content section {
+  margin-top: 2rem;
+}
+
+.cv-content h2 {
+  margin: 0 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #ddd;
+  font-size: 1.2em;
+}
+
+.cv-content h3 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.cv-content p,
+.cv-content li {
+  margin-bottom: 0.75rem;
+}
+
+.cv-content a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+@media (max-width: 600px) {
+  .cv-content .cv-contact,
+  .cv-content .cv-references {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media print {
+  .cv-actions {
+    display: none;
+  }
+
+  .cv-content h2,
+  .cv-content h3 {
+    break-after: avoid;
+  }
+}
