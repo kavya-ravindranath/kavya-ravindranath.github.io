@@ -2,6 +2,10 @@
 
 <!-- start custom head snippets -->
 
+{% if page.permalink == '/' or page.permalink == '/research/' %}
+<link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+{% endif %}
+
 {% if page.permalink == '/cv/' %}
 <link rel="stylesheet" href="{{ '/assets/css/cv.css' | relative_url }}">
 {% endif %}
